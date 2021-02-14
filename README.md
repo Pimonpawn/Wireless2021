@@ -1,6 +1,7 @@
 # week4
 
-A new Flutter project.
+Open the lib folder to get the ".dart" file.
+
 
 ## Getting Started
 
